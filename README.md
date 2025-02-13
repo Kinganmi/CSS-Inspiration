@@ -6,7 +6,7 @@
 
 [Online Pages](https://csscoco.com/inspiration/#/./init)
 
-> 偶尔证书过期，可展示使用这个链接 -- [Github Page](https://chokcoco.github.io/CSS-Inspiration/#/)
+> 偶尔证书过期，可暂时使用这个链接 -- [Github Page](https://chokcoco.github.io/CSS-Inspiration/#/)
 
 ## 布局（Layout） 
 
