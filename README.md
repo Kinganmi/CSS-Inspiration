@@ -6,6 +6,8 @@
 
 [Online Pages](https://csscoco.com/inspiration/#/./init)
 
+> 偶尔证书过期，可展示使用这个链接 -- [Github Page](https://chokcoco.github.io/CSS-Inspiration/#/)
+
 ## 布局（Layout） 
 
 + [实现水平垂直居中最便捷的方法](https://csscoco.com/inspiration/#/./layout/best-way-to-center-element.md) 
